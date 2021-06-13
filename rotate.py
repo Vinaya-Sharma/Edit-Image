@@ -32,7 +32,5 @@ except:
     print("Please enter a valid transformation ")
     exit
     
-a = "vinaya hazel krish"
-print(a.split())
 
 
